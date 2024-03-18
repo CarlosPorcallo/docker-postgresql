@@ -1,8 +1,12 @@
-This is a [PostgreSQL](https://hub.docker.com/_/postgres) Data Base launched with Docker [`Docker`](https://www.docker.com) and Docker Compose [`Docker Compose`](https://docs.docker.com/compose/).
+This is a [PostgreSQL](https://hub.docker.com/_/postgres) Data Base launched with Docker [`Docker`](https://www.docker.com) and [`Docker Compose`](https://docs.docker.com/compose/).
+
+## Requirements
+
+1.- Docker & Docker Compose
 
 ## Getting Started
 
-1.- First, create a `pg_hba.conf` and a `postgresql.conf` in the config folder (use the templates).
+1.- First, create a `pg_hba.conf` and a `postgresql.conf` in the config folder (from the templates).
 
 2.- Create a `.env` file from the template.
 
